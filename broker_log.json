@@ -1,0 +1,3 @@
+{"timestamp": "2025-11-20T14:19:44.469886", "event": "client_connected", "data": "takinyemi"}
+{"timestamp": "2025-11-20T14:19:50.033790", "event": "message_routed", "data": {"type": "chat", "payload": "takinyemi: hello world"}}
+{"timestamp": "2025-11-20T14:19:53.030921", "event": "client_disconnected", "data": "takinyemi"}

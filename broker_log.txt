@@ -1,0 +1,7 @@
+takinyemi: Hello World
+takinyemi: hello world
+newuser: hello world
+takinyemi: hello world
+takinyemi: & C:/Users/akiny/AppData/Local/Programs/Python/Python313/python.exe c:/Users/akiny/OneDrive/Documents/ThreadTalk/client.py
+takinyemi: hello world
+jholly: hello, how are you?

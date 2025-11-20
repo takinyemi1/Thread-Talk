@@ -1,0 +1,34 @@
+{"timestamp": "2025-11-18T14:30:12", "event": "connection", "username": "takinyemi"}
+{"timestamp": "2025-11-18T14:30:17", "event": "message", "username": "takinyemi", "packet": {"type": "chat", "payload": "hello world"}}
+{"timestamp": "2025-11-18T14:30:23", "event": "connection", "username": "jholly"}
+{"timestamp": "2025-11-18T14:30:25", "event": "message", "username": "jholly", "packet": {"type": "chat", "payload": "hello"}}
+{"timestamp": "2025-11-18T14:52:00", "event": "connection", "username": "takinyemi"}
+{"timestamp": "2025-11-18T14:52:09", "event": "connection", "username": "jholly"}
+{"timestamp": "2025-11-18T14:52:22", "event": "connection", "username": "emekonnen"}
+{"timestamp": "2025-11-18T14:52:28", "event": "message", "username": "takinyemi", "packet": {"type": "chat", "payload": "hello world"}}
+{"timestamp": "2025-11-18T14:52:40", "event": "message", "username": "jholly", "packet": {"type": "chat", "payload": "how are you?"}}
+{"timestamp": "2025-11-18T14:52:58", "event": "message", "username": "emekonnen", "packet": {"type": "chat", "payload": "this class is parallel and distributed programming"}}
+{"timestamp": "2025-11-20T14:16:09", "event": "connection", "username": "takinyemi"}
+{"timestamp": "2025-11-20T14:16:15", "event": "message", "username": "takinyemi", "packet": {"type": "chat", "payload": "takinyemi: hello world"}}
+{"timestamp": "2025-11-20T14:16:22", "event": "message", "username": "takinyemi", "packet": {"type": "chat", "payload": "takinyemi: hello world"}}
+{"timestamp": "2025-11-20T14:28:54", "event": "connection", "username": "takinyemi"}
+{"timestamp": "2025-11-20T14:29:05", "event": "connection", "username": "jholly"}
+{"timestamp": "2025-11-20T14:29:15", "event": "message", "username": "takinyemi", "packet": {"type": "chat", "payload": "takinyemi: hello world"}}
+{"timestamp": "2025-11-20T14:29:22", "event": "message", "username": "jholly", "packet": {"type": "chat", "payload": "jholly: hi everybody"}}
+{"timestamp": "2025-11-20T14:31:47", "event": "connection", "username": "takinyemi"}
+{"timestamp": "2025-11-20T14:31:56", "event": "connection", "username": "jholly"}
+{"timestamp": "2025-11-20T14:32:07", "event": "message", "username": "jholly", "packet": {"type": "chat", "payload": "jholly: hello world"}}
+{"timestamp": "2025-11-20T14:32:11", "event": "message", "username": "takinyemi", "packet": {"type": "chat", "payload": "takinyemi: hello"}}
+{"timestamp": "2025-11-20T14:32:21", "event": "message", "username": "takinyemi", "packet": {"type": "chat", "payload": "takinyemi: how are you?"}}
+{"timestamp": "2025-11-20T14:32:38", "event": "connection", "username": "emekkonen"}
+{"timestamp": "2025-11-20T14:40:13", "event": "connection", "username": "takinyemi"}
+{"timestamp": "2025-11-20T14:40:20", "event": "connection", "username": "jholly"}
+{"timestamp": "2025-11-20T14:40:34", "event": "message", "username": "takinyemi", "packet": {"type": "chat", "payload": "takinyemi: helloworld"}}
+{"timestamp": "2025-11-20T14:42:56", "event": "connection", "username": "takinyemi"}
+{"timestamp": "2025-11-20T14:43:07", "event": "connection", "username": "jholly"}
+{"timestamp": "2025-11-20T14:43:28", "event": "connection", "username": "emekkonen"}
+{"timestamp": "2025-11-20T14:43:49", "event": "message", "username": "takinyemi", "packet": {"type": "chat", "payload": "takinyemi: hello world"}}
+{"timestamp": "2025-11-20T14:43:56", "event": "message", "username": "emekkonen", "packet": {"type": "chat", "payload": "emekkonen: hi how are you?"}}
+{"timestamp": "2025-11-20T14:44:08", "event": "message", "username": "jholly", "packet": {"type": "chat", "payload": "jholly: good. is this parallel and distributed programming?"}}
+{"timestamp": "2025-11-20T14:44:13", "event": "message", "username": "emekkonen", "packet": {"type": "chat", "payload": "emekkonen: yes!"}}
+{"timestamp": "2025-11-20T14:44:19", "event": "message", "username": "takinyemi", "packet": {"type": "chat", "payload": "takinyemi: good to know!"}}
